@@ -17,10 +17,11 @@ Daily DSA practice .
 | 07-03-2026 | [1888. Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium | C++ | ✅ |---
 | 08-03-2026 | [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | C++ | ✅ |
 | 09-03-2026 | [3129. Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | Medium | C++ | ✅ |
+| 10-03-2026 | [3130. Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | Hard | C++ | ✅ |
 
 
 ## 📊 Progress Tracker
 
-- Total Problems Solved: 6
-- Current Streak: 6 🔥
+- Total Problems Solved: 10
+- Current Streak: 10 🔥
 - Language: C++
